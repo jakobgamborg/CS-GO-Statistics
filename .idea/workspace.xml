@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eb55d9f-b0ea-42f8-a7be-01a7d0cd2e4a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/CS-GO-Statistics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSGOStatistic/nbproject/private/private.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSGOStatistics/src/Data/DataStorage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSGOStatistics/src/Domain/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSGOStatistics/src/Domain/map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CSGOStatistics/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/CSGOStatistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/CSGOStatistics/src/CSGOStatistics.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/Dust2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/Map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/MapInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/MapList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSGOStatistics/src/printer.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7eb55d9f-b0ea-42f8-a7be-01a7d0cd2e4a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,11 +12,12 @@
     <session id="-2079720078">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -50,12 +33,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="14" />
-          <entry key="java" value="1865" />
+          <entry key="java" value="1881" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1865" />
+          <entry key="JAVA" value="1881" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -72,10 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CSGOStatistics/src/Domain/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="299">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="e#297#298#0" expanded="true" />
                 <element signature="e#327#328#0" expanded="true" />
@@ -94,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CSGOStatistics/src/Domain/map.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="69">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -135,6 +119,7 @@
         <option value="$PROJECT_DIR$/CSGOStatistics/src/Map.java" />
         <option value="$PROJECT_DIR$/CSGOStatistics/src/MapList.java" />
         <option value="$PROJECT_DIR$/CSGOStatistics/src/CSGOStatistics.java" />
+        <option value="$PROJECT_DIR$/CSGOStatistics/src/Domain/map.java" />
         <option value="$PROJECT_DIR$/CSGOStatistics/src/Domain/Game.java" />
       </list>
     </option>
@@ -145,7 +130,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
@@ -232,15 +217,15 @@
       <updated>1541535842364</updated>
       <workItem from="1545590558037" duration="2188000" />
       <workItem from="1547288966522" duration="11000" />
+      <workItem from="1550043136405" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2199000" />
+    <option name="totallyTimeSpent" value="2817000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25325522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -318,30 +303,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CSGOStatistics/src/Domain/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
-            <element signature="e#364#365#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#778#779#0" expanded="true" />
-            <element signature="e#814#815#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CSGOStatistics/src/Data/DataStorage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -351,8 +312,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CSGOStatistics/src/Domain/map.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="69">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSGOStatistics/src/Domain/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#373#374#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#778#779#0" expanded="true" />
+            <element signature="e#814#815#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
